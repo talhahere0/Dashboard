@@ -1,0 +1,46 @@
+.NewUser{
+    flex:4;
+    padding:20px;
+    
+    
+}
+.NewUserTitle{
+    flex:2px;
+    
+}
+.NewUserTitlename{
+    font-size: 40px;
+    font-weight: 600;
+    
+    
+}
+.NewUserLeft{
+   display: flex;
+   flex-direction: column;
+   
+    
+    
+}
+
+.NewUserLeft>label{
+    font-size: 16px;
+    font-weight: 300;
+}
+.NewuserInput{
+    border:none;
+    border-bottom: 1px solid gray;
+    width: 250px;
+    margin-bottom:20px;
+    padding-top: 20px;
+}
+.NewUserBtn{
+    padding: 7px;
+    border: none;
+    width: 100px;
+    border-radius:5px;
+    background-color:green;
+    color: white;
+    font-weight: bolder;
+    margin-top: 15px;
+    
+}
